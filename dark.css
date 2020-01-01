@@ -1,6 +1,6 @@
 @-moz-document url-prefix("https://guacamole.") {
 /*
- * Guacamole Dark Theme (2019).
+ * Guacamole Dark Theme (2020).
  * 
  * CC BY - Creative Commons Attribution
  */
@@ -84,11 +84,14 @@ div.login-ui {
 }
 */
 #connection-warning {
-    background-color: #424200;
+    background-color: #a8a800;
 }
 
 .transfer-manager {
     background-color: #2c2c2c;
+}
+.transfer.error {
+    background-color: #a80000;
 }
 
 /* Settings */
